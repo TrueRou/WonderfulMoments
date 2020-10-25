@@ -1,3 +1,4 @@
+[中文](https://github.com/TROU2004/WonderfulMoments/blob/master/README_CN.md) [English](https://github.com/TROU2004/WonderfulMoments/blob/master/README.md)
 # WonderfulMoments
 WonderfulMoments can automatically guide your obs when to start the recording so that you can manage your highlight moments.
 It works easily like a bridge between osu! and obs. Thanks to OsuRTDataProvider provides the ways to check your osu state.
