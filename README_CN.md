@@ -15,7 +15,7 @@ WonderfulMoments可以控制你的obs自动地开始录制或者停止录制你�
     - 如果你没听说过啥是Sync, 那你直接到Releases中下载Sync2.18.5.zip, 解压以后运行Sync.exe就可以了(打开以后你可能会看到一个类似控制台的窗口, 这个就是Sync, 关掉了窗口以后, WonderfulMoments就关了)
 1. 可以用了, WonderfulMoments会帮你自动记录你的精彩时刻了, 录好的视频会放在obs录制目录里面, 正常的话只会保留你十个成绩的视频(为了节约你的硬盘空间), 可以在配置文件里面修改保留成绩的个数
 
-##配置文件
+## 配置文件
 可以直接在Sync中输入"config"来打开配置面板, 然后展开"WonderfulMoments-Setting"
 - WebSocketURL和Password: 直接参照obs里面"工具-WebSockets Server Settings"里面的URL和密码就可以了, 没有验证的话密码可以留空
 - FullMode: WonderfulMoments其实有两种模式, 正常默认的是PartMode, 也可以改成FullMode
